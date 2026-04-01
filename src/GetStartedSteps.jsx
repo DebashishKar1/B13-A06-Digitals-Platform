@@ -1,4 +1,4 @@
-// src/GetStartedSteps.jsx
+
 
 const GetStartedSteps = () => {
   return (

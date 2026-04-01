@@ -1,4 +1,4 @@
-// src/PricingSection.jsx
+
 
 const PricingSection = () => {
   return (

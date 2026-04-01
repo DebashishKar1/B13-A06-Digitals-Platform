@@ -1,4 +1,4 @@
-// src/Footer.jsx
+
 
 const Footer = () => {
   return (

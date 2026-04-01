@@ -1,4 +1,4 @@
-// src/components/StatsBar.jsx
+
 import React from 'react';
 
 const StatsBar = () => {

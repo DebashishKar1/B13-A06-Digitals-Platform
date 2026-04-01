@@ -1,16 +1,15 @@
-# React + Vite
+# project name- B13-A06 Digitals Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Description:                                                            A digital platform to showcase products with a dynamic shopping cart, responsive navbar, and smooth checkout experience. Perfect for learning React, Vite, and Tailwind CSS while building a practical project.
 
-Currently, two official plugins are available:
+## Technologies Used
+- React
+- Vite
+- JavaScript
+- Tailwind CSS
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Features
+1. Add products to a dynamic cart
+2. Responsive Navbar with cart count
+3. Easy checkout process
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
