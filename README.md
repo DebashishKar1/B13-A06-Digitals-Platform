@@ -11,4 +11,5 @@ Description:                                                            A digita
 ## Features
 1. Add products to a dynamic cart
 2. Responsive Navbar with cart count
-3. Easy checkout 
+3. Easy checkout process
+
